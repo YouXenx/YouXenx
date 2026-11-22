@@ -102,36 +102,24 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 | [**NestJS 11 Playground**](https://github.com/YouXenx/nestjs-11-test) | Backend experiments with NestJS 11 and TypeScript. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**Vue.js Masterclass 2024**](https://github.com/YouXenx/vuejs-masterclass-2024-edition) | Course project built step by step with Vue 3. | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-</div>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&include_all_commits=false&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats&border_radius=12&bg_color=161b22&title_color=845adf&text_color=c9d1d9&icon_color=845adf&ring_color=845adf&border_color=30363d" /><img height="140" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&include_all_commits=false&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats&border_radius=12&bg_color=ffffff&title_color=845adf&text_color=24292f&icon_color=845adf&ring_color=845adf&border_color=d0d7de" alt="GitHub stats" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&card_width=280&border_radius=12&bg_color=161b22&title_color=845adf&text_color=c9d1d9&border_color=30363d" /><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&card_width=280&border_radius=12&bg_color=ffffff&title_color=845adf&text_color=24292f&border_color=d0d7de" alt="Top languages" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=161b22&border=30363d&stroke=30363d&ring=845adf&fire=845adf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=845adf&sideLabels=8b949e&dates=8b949e" /><img height="140" src="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=ffffff&border=d0d7de&stroke=d0d7de&ring=845adf&fire=845adf&currStreakNum=24292f&sideNums=24292f&currStreakLabel=845adf&sideLabels=57606a&dates=57606a" alt="GitHub streak" /></picture>
+</p>
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=161b22&color=8b949e&line=845adf&point=c9d1d9&area_color=845adf&title_color=845adf&hide_border=false&border_color=30363d" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=ffffff&color=57606a&line=845adf&point=24292f&area_color=845adf&title_color=845adf&hide_border=false&border_color=d0d7de" alt="Contribution activity graph" /></picture>
+</p>
 
-<div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=YouXenx&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-</div>
-
-
-### 📈 Contribution Activity
-
-<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph" alt="Contribution activity graph" /></p>
-
-
-### 🧾 Profile Summary
-
-<div align="center">
-  <img width="75%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <br /><img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img width="32%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <br /><img width="48%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-</div>
-
-<sub>Cards are regenerated every day by a GitHub Action.</sub>
-
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" /><img width="66%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" /><img width="32%" src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img width="32.6%" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img width="32.6%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" /><img width="32.6%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" /></picture>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:ff2a4d&height=90&section=footer" alt="Footer" />
