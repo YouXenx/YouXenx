@@ -17,3 +17,20 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 - 🧩 Love crafting **admin dashboards**, **REST APIs** and internal tools
 - 🌱 Currently exploring **Go** for fast, simple backend services
 - 🛡️ Interested in **web security** — knowing how things break helps me build them safer
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Vue, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,go&theme=dark" alt="PHP, Laravel, Node.js, NestJS, Python, Go" /></td>
+  </tr>
+  <tr>
+    <td><b>Database &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="MySQL, Git, GitHub, VS Code, Figma" /></td>
+  </tr>
+</table>
