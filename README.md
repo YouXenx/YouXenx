@@ -1,7 +1,7 @@
-<img width="100%" src="./assets/redteam-banner.svg" alt="Dimas — Fullstack Web Developer and Red Team enthusiast" />
+<img width="100%" src="./assets/redteam-banner.svg" alt="Dimas Eka Priyadi — Fullstack Web Developer and Red Team enthusiast" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=845ADF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas;Fullstack+Web+Developer;Vue+%C2%B7+Laravel+%C2%B7+NestJS;Red+Team+%26+Pentest+Enthusiast;Building+clean%2C+fast+web+apps" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=845ADF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas+Eka+Priyadi;Fullstack+Web+Developer;Vue+%C2%B7+Laravel+%C2%B7+NestJS;Red+Team+%26+Pentest+Enthusiast;Building+clean%2C+fast+web+apps" alt="Typing introduction" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=YouXenx&label=Profile%20views&color=845adf&style=flat" alt="Profile views" />
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Dimas**, a **Fullstack Web Developer** from Indonesia, currently at **PT Mitra Sinergi Adhitama**.
+I'm **Dimas Eka Priyadi**, a **Fullstack Web Developer** from Indonesia, currently at **PT Mitra Sinergi Adhitama**.
 I enjoy turning ideas into fast, clean and easy-to-use web applications — from the database to the UI.
 
 - 🔭 Building web apps with **Vue**, **Laravel** and **NestJS**
