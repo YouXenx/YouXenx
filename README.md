@@ -61,7 +61,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 
 ### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260" alt="Contribution activity graph" /></p>
 
 
 ### 🧾 Profile Summary
