@@ -67,11 +67,11 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 ### 🧾 Profile Summary
 
 <div align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+  <img width="75%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <br /><img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <br /><img width="48%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </div>
 
 <sub>Cards are regenerated every day by a GitHub Action.</sub>
@@ -82,7 +82,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
-  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
+  <img width="85%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
 </picture>
 
 
