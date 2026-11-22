@@ -7,3 +7,13 @@
     <img src="https://img.shields.io/badge/Based%20in-Indonesia-26bf94?style=flat-square" alt="Based in Indonesia" />
   </p>
 </div>
+
+## 👨‍💻 About Me
+
+I'm **Dimas**, a **Fullstack Web Developer** from Indonesia, currently at **PT Mitra Sinergi Adhitama**.
+I enjoy turning ideas into fast, clean and easy-to-use web applications — from the database to the UI.
+
+- 🔭 Building web apps with **Vue**, **Laravel** and **NestJS**
+- 🧩 Love crafting **admin dashboards**, **REST APIs** and internal tools
+- 🌱 Currently exploring **Go** for fast, simple backend services
+- 🛡️ Interested in **web security** — knowing how things break helps me build them safer
