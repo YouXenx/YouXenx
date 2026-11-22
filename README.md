@@ -55,3 +55,8 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YouXenx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
