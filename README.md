@@ -61,7 +61,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </div>
 
@@ -73,7 +73,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 
 ### 📈 Contribution Activity
 
-<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260" alt="Contribution activity graph" /></p>
+<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph" alt="Contribution activity graph" /></p>
 
 
 ### 🧾 Profile Summary
