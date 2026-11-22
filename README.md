@@ -34,3 +34,12 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
     <td><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="MySQL, Git, GitHub, VS Code, Figma" /></td>
   </tr>
 </table>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Absensi PKM**](https://github.com/YouXenx/project-absensi-pkm-260926) | Web app to manage and monitor student attendance data in one central place. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [**Laravel 12 Playground**](https://github.com/YouXenx/laravel-12-test) | Personal project exploring the latest Laravel 12 features. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| [**NestJS 11 Playground**](https://github.com/YouXenx/nestjs-11-test) | Backend experiments with NestJS 11 and TypeScript. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Vue.js Masterclass 2024**](https://github.com/YouXenx/vuejs-masterclass-2024-edition) | Course project built step by step with Vue 3. | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
