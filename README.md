@@ -20,6 +20,14 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 - 🌱 Currently exploring **Go** for fast, simple backend services
 - 🛡️ Interested in **web security** — knowing how things break helps me build them safer
 
+## 🛡️ Red Team Mode
+
+<div align="center">
+  <img width="85%" src="./assets/redteam-terminal.svg" alt="Animated terminal showing an authorized pentest workflow" />
+  <br />
+  <sub>Scope → recon → enumeration → reporting — always on <b>authorized</b> targets only.</sub>
+</div>
+
 ## 🛠️ Tech Stack
 
 <table>
