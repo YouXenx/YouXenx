@@ -114,18 +114,12 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=161b22&color=8b949e&line=845adf&point=c9d1d9&area_color=845adf&title_color=845adf&hide_border=false&border_color=30363d" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=ffffff&color=57606a&line=845adf&point=24292f&area_color=845adf&title_color=845adf&hide_border=false&border_color=d0d7de" alt="Contribution activity graph" /></picture>
 </p>
 
-### 🧾 Profile Summary
-
-<div align="center">
-  <img width="75%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <br /><img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img width="32%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <br /><img width="48%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-</div>
-
-<sub>Cards are regenerated every day by a GitHub Action.</sub>
-
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" /><img width="66%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" /><img width="32%" src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img width="32.6%" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img width="32.6%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" /><img width="32.6%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" /></picture>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:ff2a4d&height=90&section=footer" alt="Footer" />
