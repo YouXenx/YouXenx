@@ -60,3 +60,16 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 ### 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+
+### 🧾 Profile Summary
+
+<div align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+</div>
+
+<sub>Cards are regenerated every day by a GitHub Action.</sub>
