@@ -122,4 +122,21 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
   <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" /><img width="32.6%" src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" /></picture>
 </p>
 
+## 🏆 Achievements
+
+<p align="center">
+  <img width="140" src="./assets/achievements/pull-shark.svg" alt="Pull Shark (unlocked)" />
+  <img width="140" src="./assets/achievements/yolo.svg" alt="YOLO (unlocked)" />
+  <img width="140" src="./assets/achievements/quickdraw.svg" alt="Quickdraw (unlocked)" />
+  <img width="140" src="./assets/achievements/galaxy-brain.svg" alt="Galaxy Brain (locked)" />
+  <img width="140" src="./assets/achievements/pair-extraordinaire.svg" alt="Pair Extraordinaire (locked)" />
+  <br />
+  <img width="140" src="./assets/achievements/starstruck.svg" alt="Starstruck (locked)" />
+  <img width="140" src="./assets/achievements/arctic-code-vault-contributor.svg" alt="Arctic Code Vault Contributor (locked)" />
+  <img width="140" src="./assets/achievements/public-sponsor.svg" alt="Public Sponsor (locked)" />
+  <img width="140" src="./assets/achievements/heart-on-your-sleeve.svg" alt="Heart On Your Sleeve (locked)" />
+  <img width="140" src="./assets/achievements/open-sourcerer.svg" alt="Open Sourcerer (locked)" />
+</p>
+<p align="center"><sub>Coloured = unlocked · Greyed out with 🔒 = locked (not earned yet)</sub></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:ff2a4d&height=90&section=footer" alt="Footer" />
