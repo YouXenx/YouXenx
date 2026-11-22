@@ -89,13 +89,5 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 <sub>Cards are regenerated every day by a GitHub Action.</sub>
 
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
-  <img width="85%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
-</picture>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:ff2a4d&height=90&section=footer" alt="Footer" />
