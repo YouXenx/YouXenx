@@ -20,6 +20,14 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 - 🌱 Currently exploring **Go** for fast, simple backend services
 - 🛡️ Interested in **web security** — knowing how things break helps me build them safer
 
+## 🛡️ Red Team Mode
+
+<div align="center">
+  <img width="85%" src="./assets/redteam-terminal.svg" alt="Animated terminal showing an authorized pentest workflow" />
+  <br />
+  <sub>Scope → recon → enumeration → reporting — always on <b>authorized</b> targets only.</sub>
+</div>
+
 ## 🛠️ Tech Stack
 
 <table>
@@ -30,6 +38,10 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
   <tr>
     <td><b>Backend</b></td>
     <td><img height="34" src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,go&theme=dark" alt="PHP, Laravel, Node.js, NestJS, Python, Go" /></td>
+  </tr>
+  <tr>
+    <td><b>Security</b></td>
+    <td><img height="34" src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="Kali Linux, Linux, Bash" /></td>
   </tr>
   <tr>
     <td><b>Database &amp; Tools</b></td>
