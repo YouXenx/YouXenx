@@ -73,3 +73,12 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 </div>
 
 <sub>Cards are regenerated every day by a GitHub Action.</sub>
+
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
+</picture>
