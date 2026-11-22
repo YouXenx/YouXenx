@@ -1,7 +1,7 @@
-<img width="100%" src="./assets/redteam-banner.svg" alt="Dimas — Fullstack Web Developer and Red Team enthusiast" />
+<img width="100%" src="./assets/redteam-banner.svg" alt="Dimas Eka Priyadi — Fullstack Web Developer and Red Team enthusiast" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=845ADF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas;Fullstack+Web+Developer;Vue+%C2%B7+Laravel+%C2%B7+NestJS;Red+Team+%26+Pentest+Enthusiast;Building+clean%2C+fast+web+apps" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=845ADF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas+Eka+Priyadi;Fullstack+Web+Developer;Vue+%C2%B7+Laravel+%C2%B7+NestJS;Red+Team+%26+Pentest+Enthusiast;Building+clean%2C+fast+web+apps" alt="Typing introduction" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=YouXenx&label=Profile%20views&color=845adf&style=flat" alt="Profile views" />
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Dimas**, a **Fullstack Web Developer** from Indonesia, currently at **PT Mitra Sinergi Adhitama**.
+I'm **Dimas Eka Priyadi**, a **Fullstack Web Developer** from Indonesia, currently at **PT Mitra Sinergi Adhitama**.
 I enjoy turning ideas into fast, clean and easy-to-use web applications — from the database to the UI.
 
 - 🔭 Building web apps with **Vue**, **Laravel** and **NestJS**
@@ -61,7 +61,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </div>
 
@@ -73,7 +73,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 
 ### 📈 Contribution Activity
 
-<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260" alt="Contribution activity graph" /></p>
+<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph" alt="Contribution activity graph" /></p>
 
 
 ### 🧾 Profile Summary
