@@ -43,3 +43,10 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 | [**Laravel 12 Playground**](https://github.com/YouXenx/laravel-12-test) | Personal project exploring the latest Laravel 12 features. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | [**NestJS 11 Playground**](https://github.com/YouXenx/nestjs-11-test) | Backend experiments with NestJS 11 and TypeScript. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Vue.js Masterclass 2024**](https://github.com/YouXenx/vuejs-masterclass-2024-edition) | Course project built step by step with Vue 3. | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
