@@ -102,18 +102,13 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 | [**NestJS 11 Playground**](https://github.com/YouXenx/nestjs-11-test) | Backend experiments with NestJS 11 and TypeScript. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**Vue.js Masterclass 2024**](https://github.com/YouXenx/vuejs-masterclass-2024-edition) | Course project built step by step with Vue 3. | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-</div>
-
-
-<div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=YouXenx&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-</div>
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&include_all_commits=false&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats&border_radius=12&bg_color=161b22&title_color=845adf&text_color=c9d1d9&icon_color=845adf&ring_color=845adf&border_color=30363d" /><img height="140" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&include_all_commits=false&custom_title=Dimas%20Eka%20Priyadi%27s%20Stats&border_radius=12&bg_color=ffffff&title_color=845adf&text_color=24292f&icon_color=845adf&ring_color=845adf&border_color=d0d7de" alt="GitHub stats" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&card_width=280&border_radius=12&bg_color=161b22&title_color=845adf&text_color=c9d1d9&border_color=30363d" /><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&card_width=280&border_radius=12&bg_color=ffffff&title_color=845adf&text_color=24292f&border_color=d0d7de" alt="Top languages" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=161b22&border=30363d&stroke=30363d&ring=845adf&fire=845adf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=845adf&sideLabels=8b949e&dates=8b949e" /><img height="140" src="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=ffffff&border=d0d7de&stroke=d0d7de&ring=845adf&fire=845adf&currStreakNum=24292f&sideNums=24292f&currStreakLabel=845adf&sideLabels=57606a&dates=57606a" alt="GitHub streak" /></picture>
+</p>
 
 ### 📈 Contribution Activity
 
