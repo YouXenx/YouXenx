@@ -49,7 +49,7 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YouXenx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouXenx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
