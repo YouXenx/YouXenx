@@ -40,6 +40,10 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
     <td><img height="34" src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,go&theme=dark" alt="PHP, Laravel, Node.js, NestJS, Python, Go" /></td>
   </tr>
   <tr>
+    <td><b>Security</b></td>
+    <td><img height="34" src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="Kali Linux, Linux, Bash" /></td>
+  </tr>
+  <tr>
     <td><b>Database &amp; Tools</b></td>
     <td><img height="34" src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="MySQL, Git, GitHub, VS Code, Figma" /></td>
   </tr>
