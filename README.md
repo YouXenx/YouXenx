@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:23b7e5&height=160&section=header&text=Dimas&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=58&descSize=16&animation=fadeIn" alt="Header" />
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=845ADF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimas;Fullstack+Web+Developer;Vue+%C2%B7+Laravel+%C2%B7+NestJS;Building+clean%2C+fast+web+apps" alt="Typing introduction" />
 
@@ -82,3 +84,6 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
   <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YouXenx/YouXenx/output/github-snake.svg" />
 </picture>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:23b7e5,100:845adf&height=100&section=footer" alt="Footer" />
