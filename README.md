@@ -110,10 +110,9 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=161b22&border=30363d&stroke=30363d&ring=845adf&fire=845adf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=845adf&sideLabels=8b949e&dates=8b949e" /><img height="140" src="https://streak-stats.demolab.com?user=YouXenx&card_width=360&card_height=195&border_radius=12&background=ffffff&border=d0d7de&stroke=d0d7de&ring=845adf&fire=845adf&currStreakNum=24292f&sideNums=24292f&currStreakLabel=845adf&sideLabels=57606a&dates=57606a" alt="GitHub streak" /></picture>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center"><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&theme=tokyo-night&hide_border=true&area=true&radius=16&height=260&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph" alt="Contribution activity graph" /></p>
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=161b22&color=8b949e&line=845adf&point=c9d1d9&area_color=845adf&title_color=845adf&hide_border=false&border_color=30363d" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YouXenx&custom_title=Dimas%20Eka%20Priyadi%27s%20Contribution%20Graph&radius=12&height=240&area=true&bg_color=ffffff&color=57606a&line=845adf&point=24292f&area_color=845adf&title_color=845adf&hide_border=false&border_color=d0d7de" alt="Contribution activity graph" /></picture>
+</p>
 
 ### 🧾 Profile Summary
 
