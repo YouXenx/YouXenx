@@ -86,4 +86,4 @@ I enjoy turning ideas into fast, clean and easy-to-use web applications — from
 </picture>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:23b7e5,100:845adf&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845adf,100:ff2a4d&height=90&section=footer" alt="Footer" />
